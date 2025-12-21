@@ -1,4 +1,4 @@
-# Stock_Predictor
+# Stock_Tracker
 This is a stock predictor app using python. 
 I am dividing this project into three phase ->
 In the first phase i am adding only American Stock Market in the project.
